@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="14055" started-at="2022-07-15T10:20:11Z" finished-at="2022-07-15T10:20:26Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="14055" started-at="2022-07-15T10:20:11Z" finished-at="2022-07-15T10:20:26Z">
+      <class name="org.testngframe.MobilePurchase">
+        <test-method status="PASS" signature="browserLaunch(java.lang.String)[pri:0, instance:org.testngframe.MobilePurchase@5025a98f]" name="browserLaunch" is-config="true" duration-ms="5522" started-at="2022-07-15T15:50:11Z" finished-at="2022-07-15T15:50:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://www.flipkart.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:org.testngframe.MobilePurchase@5025a98f]" name="startTime" is-config="true" duration-ms="1" started-at="2022-07-15T15:50:17Z" finished-at="2022-07-15T15:50:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="login()[pri:1, instance:org.testngframe.MobilePurchase@5025a98f]" name="login" duration-ms="186" started-at="2022-07-15T15:50:17Z" finished-at="2022-07-15T15:50:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:org.testngframe.MobilePurchase@5025a98f]" name="endTime" is-config="true" duration-ms="1" started-at="2022-07-15T15:50:17Z" finished-at="2022-07-15T15:50:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method status="PASS" signature="search(java.lang.String)[pri:2, instance:org.testngframe.MobilePurchase@5025a98f]" name="search" duration-ms="187" started-at="2022-07-15T15:50:17Z" data-provider="mobile" finished-at="2022-07-15T15:50:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Redmi Mobiles]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:org.testngframe.MobilePurchase@5025a98f]" name="startTime" is-config="true" duration-ms="0" started-at="2022-07-15T15:50:17Z" finished-at="2022-07-15T15:50:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:org.testngframe.MobilePurchase@5025a98f]" name="endTime" is-config="true" duration-ms="1" started-at="2022-07-15T15:50:17Z" finished-at="2022-07-15T15:50:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:org.testngframe.MobilePurchase@5025a98f]" name="startTime" is-config="true" duration-ms="0" started-at="2022-07-15T15:50:17Z" finished-at="2022-07-15T15:50:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="mobile()[pri:3, instance:org.testngframe.MobilePurchase@5025a98f]" name="mobile" duration-ms="4434" started-at="2022-07-15T15:50:17Z" finished-at="2022-07-15T15:50:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobile -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:org.testngframe.MobilePurchase@5025a98f]" name="endTime" is-config="true" duration-ms="0" started-at="2022-07-15T15:50:22Z" finished-at="2022-07-15T15:50:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:org.testngframe.MobilePurchase@5025a98f]" name="startTime" is-config="true" duration-ms="0" started-at="2022-07-15T15:50:22Z" finished-at="2022-07-15T15:50:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="window()[pri:4, instance:org.testngframe.MobilePurchase@5025a98f]" name="window" duration-ms="1946" started-at="2022-07-15T15:50:22Z" finished-at="2022-07-15T15:50:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- window -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:org.testngframe.MobilePurchase@5025a98f]" name="endTime" is-config="true" duration-ms="1" started-at="2022-07-15T15:50:24Z" finished-at="2022-07-15T15:50:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:org.testngframe.MobilePurchase@5025a98f]" name="startTime" is-config="true" duration-ms="0" started-at="2022-07-15T15:50:24Z" finished-at="2022-07-15T15:50:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="screenShot()[pri:5, instance:org.testngframe.MobilePurchase@5025a98f]" name="screenShot" duration-ms="380" started-at="2022-07-15T15:50:24Z" finished-at="2022-07-15T15:50:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenShot -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:org.testngframe.MobilePurchase@5025a98f]" name="endTime" is-config="true" duration-ms="1" started-at="2022-07-15T15:50:24Z" finished-at="2022-07-15T15:50:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method status="PASS" signature="browserQuit()[pri:0, instance:org.testngframe.MobilePurchase@5025a98f]" name="browserQuit" is-config="true" duration-ms="1348" started-at="2022-07-15T15:50:24Z" finished-at="2022-07-15T15:50:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserQuit -->
+      </class> <!-- org.testngframe.MobilePurchase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

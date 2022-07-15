@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="org.testngframe.MobilePurchase">
+        <methods>
+          <include name="login"/>
+          <include name="mobile"/>
+          <include name="window"/>
+          <include name="screenShot"/>
+          <include name="search"/>
+          <include name="browserLaunch"/>
+        </methods>
+      </class> <!-- org.testngframe.MobilePurchase -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
